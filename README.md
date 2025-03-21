@@ -11,9 +11,9 @@ MTRI's Smapvex Code to calculate Biomass
 3. [Output](#out)
 
 ## Linux Installation <a name="lininstall"></a>
-Clone the repository to a location of your choosing:
+Clone or download the repository to a location of your choosing:
 
-    git@vm-gitlab.mtri.org:biomass/smapvex.git
+    git@github.com:MTRI-AA/smapvex.git
 
 And create the virtual environment:
 
